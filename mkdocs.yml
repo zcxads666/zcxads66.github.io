@@ -1,6 +1,6 @@
-site_name: 网站名称
-site_author: 网站作者
-site_url: 网站地址(https://GitHub用户名.github.io/项目名)
+site_name:1 网站名称
+site_author:1 网站作者
+site_url:1 网站地址(https://GitHub用户名.github.io/项目名)
 
 theme:
   name: material
