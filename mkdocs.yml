@@ -107,13 +107,4 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
       permalink: "\ue157"
 
-extra_javascript:
-  - js/extra.js
-  - js/mathjax.js
-  - mathjax-config.js # 这三个js文件需要自行下载，放在docs目录中
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-extra_css:
-  - css/extra.css
-  - css/video.css # 这两个css文件需要自行下载，放在docs目录中
